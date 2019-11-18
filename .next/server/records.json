@@ -19,21 +19,26 @@
     "byName": {
       "init-server.js": 0,
       "on-error-server.js": 1,
-      "static\\didctpUlLTbSyyq7wn1aU\\pages\\_app.js": 2,
-      "static\\didctpUlLTbSyyq7wn1aU\\pages\\_document.js": 3,
-      "static\\didctpUlLTbSyyq7wn1aU\\pages\\_error.js": 4,
-      "static\\didctpUlLTbSyyq7wn1aU\\pages\\calc.js": 5,
-      "static\\didctpUlLTbSyyq7wn1aU\\pages\\index.js": 6
+      "static\\xVq1sAnmcMvZ3lzSl4Sb4\\pages\\_app.js": 2,
+      "static\\xVq1sAnmcMvZ3lzSl4Sb4\\pages\\_document.js": 3,
+      "static\\xVq1sAnmcMvZ3lzSl4Sb4\\pages\\_error.js": 4,
+      "static\\xVq1sAnmcMvZ3lzSl4Sb4\\pages\\calc.js": 5,
+      "static\\xVq1sAnmcMvZ3lzSl4Sb4\\pages\\index.js": 6,
+      "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\_app.js": 7,
+      "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\_document.js": 8,
+      "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\_error.js": 9,
+      "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\calc.js": 10,
+      "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\index.js": 11
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      2,
-      3,
-      4,
-      5,
-      6
+      10,
+      11,
+      7,
+      8,
+      9
     ]
   }
 }

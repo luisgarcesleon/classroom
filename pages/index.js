@@ -15,12 +15,9 @@ export default ()=> (
         
         <style jsx global>
       {
-        `
-        @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-        body {
+        `body {
           background: #15C5E8;
           color: white;
-          font-family: 'Roboto';
         }
         `
       }
