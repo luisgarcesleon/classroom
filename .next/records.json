@@ -16,18 +16,22 @@
       "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\_app.js": 8,
       "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\_error.js": 9,
       "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\calc.js": 10,
-      "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\index.js": 11
+      "static\\O8lmSV3p-ac3z9tvHs0sm\\pages\\index.js": 11,
+      "static\\JBZIt7etAIcNb6twM1I30\\pages\\_app.js": 4,
+      "static\\JBZIt7etAIcNb6twM1I30\\pages\\_error.js": 5,
+      "static\\JBZIt7etAIcNb6twM1I30\\pages\\calc.js": 6,
+      "static\\JBZIt7etAIcNb6twM1I30\\pages\\index.js": 7
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      10,
-      11,
       2,
       3,
-      8,
-      9
+      4,
+      5,
+      6,
+      7
     ]
   }
 }
